@@ -1,0 +1,7 @@
+pyspark==3.3.2
+kafka-python
+pandas
+numpy
+django==3.2
+djangorestframework
+django-cors-headers
